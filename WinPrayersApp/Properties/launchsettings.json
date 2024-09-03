@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "WinPrayersApp (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "WinPrayersApp (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
